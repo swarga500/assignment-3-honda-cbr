@@ -1,4 +1,16 @@
-/* header style star  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+
+
+
+/*------------------- header style star---------------------  */
 
 header {
     background-color: #264653;
@@ -8,15 +20,24 @@ header {
 #btn-bg {
     background-color: #E76F51;
     border: none;
-    padding: 10px 46px 10px 46px;
 
 }
 
-/* main content style  */
+/*------------------- header style end --------------------------- */
+
+
+/* -------------------feature image --------------------------- */
+
 .image-gray {
     filter: grayscale(100%);
 }
 
+/* ---------------------feature images end-----------  */
+
+
+/* -------------main content orange text------------  */
 .orange-text {
     color: #E76F51;
 }
+
+/*--------------- end-orange text-------------- */
