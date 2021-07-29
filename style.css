@@ -1,0 +1,22 @@
+/* header style star  */
+
+header {
+    background-color: #264653;
+    ;
+}
+
+#btn-bg {
+    background-color: #E76F51;
+    border: none;
+    padding: 10px 46px 10px 46px;
+
+}
+
+/* main content style  */
+.image-gray {
+    filter: grayscale(100%);
+}
+
+.orange-text {
+    color: #E76F51;
+}
